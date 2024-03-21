@@ -1,9 +1,7 @@
-https://gb.centralindex.com/company/7fb4da768abc3f2bb55fc34f3dffa53d/car-analytics/london	// best vehicle check in London
-https://local.standard.co.uk/company/7fb4da768abc3f2bb55fc34f3dffa53d	// best car check in London
-// List of NMA Digital Directories	
-https://directory.expressandstar.co.uk/company/7fb4da768abc3f2bb55fc34f3dffa53d	//free car check in UK
-http://directory.shropshirestar.co.uk/company/7fb4da768abc3f2bb55fc34f3dffa53d	// free vehicle check in Shropshire
-//List of CitiPages Directories and Websites	
+https://gb.centralindex.com/company/7fb4da768abc3f2bb55fc34f3dffa53d/car-analytics/london//best vehicle check in London
+https://local.standard.co.uk/company/7fb4da768abc3f2bb55fc34f3dffa53d//best car check in London//List of NMA Digital Directories	
+https://directory.expressandstar.co.uk/company/7fb4da768abc3f2bb55fc34f3dffa53d//free car check in UK
+http://directory.shropshirestar.co.uk/company/7fb4da768abc3f2bb55fc34f3dffa53d	// free vehicle check in Shropshire//List of CitiPages Directories and Websites	
 http://www.citipages.net/company/7fb4da768abc3f2bb55fc34f3dffa53d	// free vehicle history check in London
 http://www.aberdeenpages.co.uk/company/7fb4da768abc3f2bb55fc34f3dffa53d	// free car check in Aberdeen
 http://www.aberystwythpages.co.uk/company/7fb4da768abc3f2bb55fc34f3dffa53d	// Car history check in Aberystwyth
